@@ -55,7 +55,7 @@ Longest Consecutive Sequence|Medium|[Python](https://github.com/Manish177/neetco
 
 |Problem|Difficulty|Solution|Complexity|
 |-------|----------|--------|----------|
-|Binary Search|Easy|
+|Binary Search|Easy|[Python](https://github.com/Manish177/neetcode-150-problems/blob/main/Binary%20Search/Binary%20Search.py)|O(log(n))
 |Search a 2D Matrix|Medium|
 |Koko Eating Bananas|Medium|
 |Find Minimum In Rotated Sorted Array|Medium|
