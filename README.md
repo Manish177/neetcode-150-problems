@@ -14,3 +14,14 @@ The purpose of this repo is to practice the 150 problems listed at [Neetcode.io]
 |Valid Sudoku|Medium|
 Longest Consecutive Sequence|Medium|[Python](https://github.com/Manish177/neetcode-150-problems/blob/main/Arrays%20%26%20Hashing/Longest%20Consecutive%20Sequence.py)|O(nlogn)
 Longest Consecutive Sequence|Medium|[Python](https://github.com/Manish177/neetcode-150-problems/blob/main/Arrays%20%26%20Hashing/Longest%20Consecutive%20Sequence%202.py)|O(n)|
+
+
+# Two Pointers
+
+|Problem|Difficulty|Solution|Complexity|
+|-------|----------|--------|----------|
+|Valid Palindrome|Easy|[Python](https://github.com/Manish177/neetcode-150-problems/blob/main/Two%20Pointers/Valid%20Palindrome.py)
+|Two Sum II Input Array Is Sorted|Medium|
+|3Sum|Medium|
+|Container With Most Water|Medium|
+|Trapping Rain Water|Hard|
