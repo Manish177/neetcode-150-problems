@@ -42,7 +42,7 @@ Longest Consecutive Sequence|Medium|[Python](https://github.com/Manish177/neetco
 
 |Problem|Difficulty|Solution|Complexity|
 |-------|----------|--------|----------|
-|Valid Parentheses|Easy|
+|Valid Parentheses|Easy|[Python](https://github.com/Manish177/neetcode-150-problems/blob/main/Stack/Valid%20Parentheses.py)
 |Min Stack|Medium|
 |Evaluate Reverse Polish Notation|Medium|
 |Generate Parentheses|Medium|
